@@ -45,7 +45,7 @@ def main():
     model = EfficientNetV2().to(device)
     criterion = nn.CrossEntropyLoss()
     optimizer = optim.Adam(model.parameters(), lr=0.001)
-    num_epochs = 10
+    num_epochs = 100
     train_losses, test_losses = [], []
     train_accuracies, test_accuracies = [], []
 
