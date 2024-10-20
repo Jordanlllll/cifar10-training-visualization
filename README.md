@@ -1,2 +1,1 @@
-# cifar10-training-visualization
-A repository for CIFAR-10 data loading and training visualization
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
